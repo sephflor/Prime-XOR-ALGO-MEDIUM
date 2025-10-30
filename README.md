@@ -1,1 +1,1 @@
-# Prime-XOR-ALGO-MEDIUM
+# Prime-XOR-ALGO-MEDIUM.This solution counts the number of non-empty subsets whose XOR value is prime using dynamic programming with frequency optimization, processing numbers in the 3500-4500 range and leveraging XOR properties to efficiently compute valid combinations modulo 10^9+7.
